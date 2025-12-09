@@ -29,3 +29,4 @@ for subdir, dirs, files in os.walk(os.getcwd() + '/src'):
 		f.write(markdown)
 		
 print('Updated script list.')
+Pywikibot CI
